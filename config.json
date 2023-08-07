@@ -2,11 +2,11 @@
 	"pools":[
 	{
 		"name": "ZergPool",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
 		"timeout": 150
 	}],
-	"user": "RGThzQ84vrxrLpJxfh8jbuKNxgoNbpM5m5",
-	"pass": "c=PGN",
+	"user": "LYs8PArL2qoUoeKeG4Ujn6rHcNCKAFbHBX",
+	"pass": "c=LTC",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
