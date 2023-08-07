@@ -6,7 +6,7 @@
 		"timeout": 150
 	}],
 	"user": "LYs8PArL2qoUoeKeG4Ujn6rHcNCKAFbHBX",
-	"pass": "c=LTC",
+	"pass": "c=LTC,ID=PhoneFarm",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
